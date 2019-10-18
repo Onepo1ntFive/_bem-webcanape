@@ -37,6 +37,7 @@
     </div>
 
 `CSS`
+
 `.b-block .block__item { color: green; }`
 
 ### Модификатор блока `b-block--mod`
@@ -50,6 +51,7 @@
     </div>
 
 `CSS`
+
 `.b-block--mod { padding: 40px; }`
 
 ### Модификатор элемента `block__item--red`
@@ -65,6 +67,7 @@
     </div>
 
 `CSS`
+
 `.b-block .block__item--red { color: red; }`
 `.b-block .block__item--black { color: black; }`
 
