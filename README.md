@@ -69,6 +69,7 @@
 `CSS`
 
 `.b-block .block__item--red { color: red; }`
+
 `.b-block .block__item--black { color: black; }`
 
 ## Вложенность элементов
